@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/sclevine/agouti"
-	"selenium-sample/config"
+	"github.com/yfrash/selenium-sample/config"
 )
 
 var driver *agouti.WebDriver

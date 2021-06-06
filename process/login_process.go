@@ -1,7 +1,7 @@
 package process
 
 import (
-	"selenium-sample/config"
+	"github.com/yfrash/selenium-sample/config"
 	"time"
 )
 

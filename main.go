@@ -3,7 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"selenium-sample/process"
+
+	"github.com/yfrash/selenium-sample/process"
 )
 
 func main() {
